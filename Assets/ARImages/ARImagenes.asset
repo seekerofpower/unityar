@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ARImagenes
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4714276538909440200
+  m_GuidHigh: 5445088235989621945
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5725333908525658438
+      m_GuidHigh: 16291423856581631107
+    m_SerializedTextureGuid:
+      m_GuidLow: 16452904739868749891
+      m_GuidHigh: 7309042998990416011
+    m_Size: {x: 0.02, y: 0.02}
+    m_SpecifySize: 1
+    m_Name: saga
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011547288410763264
+      m_GuidHigh: 7597051159942205356
+    m_SerializedTextureGuid:
+      m_GuidLow: 11879944842354624341
+      m_GuidHigh: 1094748467245227352
+    m_Size: {x: 0.085, y: 0.03972826}
+    m_SpecifySize: 1
+    m_Name: monero
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5173086135608286183
+      m_GuidHigh: 2885956349502194584
+    m_SerializedTextureGuid:
+      m_GuidLow: 17606679480466145749
+      m_GuidHigh: 12560224387648153561
+    m_Size: {x: 0.025, y: 0.03601695}
+    m_SpecifySize: 1
+    m_Name: centella
+    m_Texture: {fileID: 0}
